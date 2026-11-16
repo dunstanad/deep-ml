@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:04:54.381Z",
+  "generated_at": "2026-11-16T07:13:43.354Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -37,6 +37,17 @@
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-11-13T05:04:55.070Z",
       "last_pushed_at": "2026-11-13T05:04:55.070Z"
+    },
+    "math:409": {
+      "kind": "math",
+      "id": "409",
+      "title": "Schur Complements and the Partitioned Inverse",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/409",
+      "path": "math/0409-schur-complements-and-the-partitioned-inverse",
+      "first_solved_at": "2026-11-16T07:13:43.158Z",
+      "last_pushed_at": "2026-11-16T07:13:43.158Z"
     }
   }
 }
