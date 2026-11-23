@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 5 problems · 0 labs · 3 math
+**9** solved · 5 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-11-13 | [solution](math/0012-inverse-and-rank) |
 | [Schur Complements and the Partitioned Inverse](https://www.deep-ml.com/math-problems/409) | medium | 2026-11-16 | [solution](math/0409-schur-complements-and-the-partitioned-inverse) |
+| [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-11-23 | [solution](math/0013-solving-linear-systems) |
 | [Woodbury, Sherman-Morrison and the Matrix Determinant Lemma](https://www.deep-ml.com/math-problems/410) | medium | 2026-11-17 | [solution](math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma) |
 
 ---
